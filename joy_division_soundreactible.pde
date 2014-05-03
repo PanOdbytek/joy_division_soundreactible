@@ -1,5 +1,3 @@
-
-// HCUJEK
 import ddf.minim.*;
 
 Minim minim;
